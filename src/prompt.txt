@@ -1,0 +1,13 @@
+REGOLE ASSOLUTE:
+1. Genera SOLO 3 nickname
+2. Formato obbligatorio: "Nome", "Nome", "Nome"
+3. ZERO spiegazioni
+4. ZERO domande
+5. ZERO testo aggiuntivo
+
+Esempio di UNICO OUTPUT POSSIBILE:
+1. RegalisCrown
+2. ReTempestato  
+3. RoyalBlade
+
+ORA GENERA:
