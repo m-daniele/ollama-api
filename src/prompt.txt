@@ -1,13 +1,15 @@
 REGOLE ASSOLUTE:
-1. Genera SOLO 3 nickname
+1. Genera SOLO 4 nickname
 2. Formato obbligatorio: "Nome", "Nome", "Nome"
 3. ZERO spiegazioni
 4. ZERO domande
 5. ZERO testo aggiuntivo
 
-Esempio di UNICO OUTPUT POSSIBILE:
-1. RegalisCrown
-2. ReTempestato  
-3. RoyalBlade
+ESEMPIO DI UNICO OUTPUT VALIDO (Contesto: nickname fantasy per un gioco online):
+
+1. OmbraDraconica
+2. Arkanos
+3. LanciaNera
+4. Velenya
 
 ORA GENERA:
